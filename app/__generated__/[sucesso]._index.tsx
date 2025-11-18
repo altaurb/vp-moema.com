@@ -10,7 +10,7 @@ import { Box as Box, Heading as Heading, Span as Span, Text as Text, HtmlEmbed a
 
       export const projectId = "577eedda-aa45-43a1-aad1-46e944a7c857";
 
-      export const lastPublished = "2025-11-18T14:55:18.913Z";
+      export const lastPublished = "2025-11-18T16:04:17.438Z";
 
       export const siteName = "VP Moema";
 
