@@ -655,8 +655,8 @@
   .c2c06qa {
     border-bottom-right-radius: 999px
   }
-  .c1n2fdan {
-    color: var(--dark)
+  .cv24nze {
+    color: rgba(255, 255, 255, 1)
   }
   .c28yk0l {
     background-color: rgba(255, 255, 255, 0.08)
@@ -684,6 +684,9 @@
   }
   .c1gc2x4i {
     border-bottom-style: solid
+  }
+  .c1n2fdan {
+    color: var(--dark)
   }
   .c4wud17 {
     border-top-color: var(--color-main)
@@ -888,9 +891,6 @@
   }
   .c17y6xpp {
     right: 48px
-  }
-  .cv24nze {
-    color: rgba(255, 255, 255, 1)
   }
   .cctsvme {
     text-align: start
