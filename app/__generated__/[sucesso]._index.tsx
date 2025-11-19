@@ -10,7 +10,7 @@ import { Box as Box, Heading as Heading, Span as Span, Text as Text, HtmlEmbed a
 
       export const projectId = "577eedda-aa45-43a1-aad1-46e944a7c857";
 
-      export const lastPublished = "2025-11-18T16:04:17.438Z";
+      export const lastPublished = "2025-11-19T20:25:12.126Z";
 
       export const siteName = "VP Moema";
 
@@ -32,7 +32,7 @@ import { Box as Box, Heading as Heading, Span as Span, Text as Text, HtmlEmbed a
 return <Body
 className={`w-body cumsiip`}>
 <HtmlEmbed
-code={"<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-17099269085\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'AW-17099269085');\n</script>\n\n<!-- Event snippet for Enviar formulário de lead conversion page -->\n<script>\n  gtag('event', 'conversion', {\n      'send_to': 'AW-17099269085/IKz-CPL-9soaEN3HyNk_',\n      'value': 1.0,\n      'currency': 'BRL'\n  });\n</script>\n"}
+code={"<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WG2TJQZJ\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"}
 className={`w-html-embed`} />
 <Box
 className={`w-box c18pbl6 cl2takc cpq74bm c1wutpue chp3cnt coylvo7 cbvbtzu c1dwilak c1gn97o1 cmtnauy c68yfzg c1auzgzp cutxx5e c173t3g6 c1800mp1 c1esu2y0 c1ry1w9m c16iz1um cd2xqan c1ieatrl c11f2jte cj65elg c1cvffav cu5zju4`}>

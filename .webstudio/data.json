@@ -1,15 +1,15 @@
 {
   "build": {
-    "id": "e42d5d49-22e3-49d8-9bba-b10ef5850207",
+    "id": "f7a99535-76e2-4904-a2d2-bf990da8ff22",
     "projectId": "577eedda-aa45-43a1-aad1-46e944a7c857",
-    "version": 317,
-    "createdAt": "2025-11-18T16:04:17.438+00:00",
-    "updatedAt": "2025-11-18T16:04:17.438+00:00",
+    "version": 323,
+    "createdAt": "2025-11-19T20:25:12.126+00:00",
+    "updatedAt": "2025-11-19T20:25:12.126+00:00",
     "pages": {
       "meta": {
         "siteName": "VP Moema",
         "faviconAssetId": "123590fa4477ff3d9c5a0c4af1ccf3b3204464b1f68c381e1894b2046f207eba",
-        "code": ""
+        "code": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-WG2TJQZJ');</script>\n<!-- End Google Tag Manager -->"
       },
       "compiler": {
         "atomicStyles": true
@@ -23753,7 +23753,7 @@
           "instanceId": "s8b3mZUCaCA9TKrs2iwnN",
           "name": "code",
           "type": "string",
-          "value": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-17099269085\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'AW-17099269085');\n</script>"
+          "value": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WG2TJQZJ\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"
         }
       ],
       [
@@ -23763,7 +23763,7 @@
           "instanceId": "kCOlWR-e0xq8oZwMcHVCM",
           "name": "code",
           "type": "string",
-          "value": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-17099269085\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'AW-17099269085');\n</script>\n\n<!-- Event snippet for Enviar formulário de lead conversion page -->\n<script>\n  gtag('event', 'conversion', {\n      'send_to': 'AW-17099269085/IKz-CPL-9soaEN3HyNk_',\n      'value': 1.0,\n      'currency': 'BRL'\n  });\n</script>\n"
+          "value": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WG2TJQZJ\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"
         }
       ],
       [
