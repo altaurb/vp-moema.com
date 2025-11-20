@@ -11,7 +11,7 @@ import { Dialog as Dialog, DialogTrigger as DialogTrigger, DialogOverlay as Dial
 
       export const projectId = "577eedda-aa45-43a1-aad1-46e944a7c857";
 
-      export const lastPublished = "2025-11-19T21:17:13.291Z";
+      export const lastPublished = "2025-11-20T22:26:22.032Z";
 
       export const siteName = "VP Moema";
 
@@ -652,7 +652,7 @@ className={`w-rich-text-link c1qsugqr`}>
 <Link
 target={"_blank"}
 id={"wa-button"}
-href={"https://wa.me/+5511937234857?text=Ol%C3%A1%2C%20tenho%20interesse%20no%20VP%20Moema%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es."}
+href={"https://wa.me/+551150521414?text=Ol%C3%A1%2C%20tenho%20interesse%20no%20VP%20Moema%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es."}
 className={`w-link c1gn97o1 cmf3gxr c46bgk5 c17y6xpp cd4gmss cv24nze c108d0jy cctsvme cwdqfle cmtnauy c68yfzg csb8dtc c1felbvi c1nvbr17 c1ob30gg`}>
 <Box
 className={`w-box c1akx6b5 c9x45nu c5jker4 c11930ui c1n9iez5 c1oot2g8 c5ui9un c1vwy36z c16m6yhf crw2pn0 cv24nze c74relk c2112hx c19rn9de c1hft24e chftxvp c5zz7hp ciibbkm cmhhz3t c1gc2x4i`}>

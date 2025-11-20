@@ -10,7 +10,7 @@ import { Box as Box, Heading as Heading, Span as Span, Text as Text, HtmlEmbed a
 
       export const projectId = "577eedda-aa45-43a1-aad1-46e944a7c857";
 
-      export const lastPublished = "2025-11-19T21:17:13.291Z";
+      export const lastPublished = "2025-11-20T22:26:22.032Z";
 
       export const siteName = "VP Moema";
 
@@ -71,7 +71,7 @@ className={`w-heading cbvlzax c1nqzguo c1qsugqr c1aomvkd c1800mp1 c3gc61g c1y35e
 </Heading>
 </Box>
 <Link
-href={"https://wa.me/+5511937234857?text=Ol%C3%A1%2C%20tenho%20interesse%20no%20VP%20Moema%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es."}
+href={"https://wa.me/+551150521414?text=Ol%C3%A1%2C%20tenho%20interesse%20no%20VP%20Moema%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es."}
 target={"_blank"}
 className={`w-link c1fkkkwg c108d0jy c1hbihsy c11ucqog c1nymgjn c13opkia cxhd827 cwdqfle cvggl2u cs2gah7 c9x45nu c12enn8d c131er9p c5jker4 c1nf2kbn cp86h58 cz6arqt cymxnwl c2c06qa c5gbyyt cecplo7 cx93gdu c6vhksc c1gn97o1 cmtnauy csb8dtc c1felbvi czhq1q7 ctmbxc6 c1qef26j c1fkt40v clsa0as c4dzv4q c1e4nb1c c1opxtli c26xh0m c1mjghwh c254ujt`}>
 <HtmlEmbed
