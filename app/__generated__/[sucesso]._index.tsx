@@ -10,7 +10,7 @@ import { Box as Box, Heading as Heading, Span as Span, Text as Text, HtmlEmbed a
 
       export const projectId = "577eedda-aa45-43a1-aad1-46e944a7c857";
 
-      export const lastPublished = "2025-11-20T22:26:22.032Z";
+      export const lastPublished = "2025-11-21T18:31:54.899Z";
 
       export const siteName = "VP Moema";
 
@@ -93,11 +93,11 @@ className={`w-box c1gn97o1 cd4gmss cmtnauy c68yfzg cj5czu7 csvyxa ccor24i`}>
 href={"#inicio"}
 className={`w-link c108d0jy cd23qux c1tsj3cd cq8csui`}>
 <Image
-src={"/assets/VP-Moema-Dourado_xPVCqdqyD80RNoUUcgJ02.webp"}
-width={356}
-height={55}
+src={"/assets/Logo_Light_9VnMI2Pcr-cnVXCuFpiyy.svg"}
+width={117}
+height={34}
 alt={""}
-className={`w-image cq5gtyb cx93gdu`} />
+className={`w-image c1nkbg5i cx93gdu`} />
 </Link>
 <Paragraph
 className={`w-paragraph cpy6ziw c149l5xv c1cpobzs c1aomvkd c1o1zmkx c2smlf0`}>

@@ -10,7 +10,7 @@ import { Box as Box, Heading as Heading, Span as Span, MarkdownEmbed as Markdown
 
       export const projectId = "577eedda-aa45-43a1-aad1-46e944a7c857";
 
-      export const lastPublished = "2025-11-20T22:26:22.032Z";
+      export const lastPublished = "2025-11-21T18:31:54.899Z";
 
       export const siteName = "VP Moema";
 

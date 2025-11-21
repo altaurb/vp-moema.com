@@ -11,7 +11,7 @@ import { Dialog as Dialog, DialogTrigger as DialogTrigger, DialogOverlay as Dial
 
       export const projectId = "577eedda-aa45-43a1-aad1-46e944a7c857";
 
-      export const lastPublished = "2025-11-20T22:26:22.032Z";
+      export const lastPublished = "2025-11-21T18:31:54.899Z";
 
       export const siteName = "VP Moema";
 
@@ -619,11 +619,11 @@ className={`w-box c1gn97o1 cd4gmss cmtnauy c68yfzg cj5czu7 csvyxa ccor24i`}>
 href={"#inicio"}
 className={`w-link c108d0jy cd23qux c1tsj3cd cq8csui`}>
 <Image
-src={"/assets/VP-Moema-Dourado_xPVCqdqyD80RNoUUcgJ02.webp"}
-width={356}
-height={55}
+src={"/assets/Logo_Light_9VnMI2Pcr-cnVXCuFpiyy.svg"}
+width={117}
+height={34}
 alt={""}
-className={`w-image cq5gtyb cx93gdu`} />
+className={`w-image c1nkbg5i cx93gdu`} />
 </Link>
 <Paragraph
 className={`w-paragraph cpy6ziw c149l5xv c1cpobzs c1aomvkd c1o1zmkx c2smlf0`}>
@@ -684,17 +684,17 @@ className={`w-box c18pbl6 cl2takc cpq74bm c1wutpue chp3cnt coylvo7 c9x45nu c5jke
 href={"#inicio"}
 className={`w-link c108d0jy cd23qux cq8csui c1lmclx2 cp4gdud cx93gdu c1tsj3cd`}>
 <Image
-src={"/assets/VP-Moema-Dourado_xPVCqdqyD80RNoUUcgJ02.webp"}
-width={356}
-height={55}
+src={"/assets/Logo_Light_9VnMI2Pcr-cnVXCuFpiyy.svg"}
+width={117}
+height={34}
 alt={""}
-className={`w-image cq5gtyb cx93gdu c2kmsbi c1myo4eu cyjf4dz`} />
+className={`w-image c15vj4v8 cx93gdu c2kmsbi c1myo4eu cyjf4dz`} />
 <Image
-src={"/assets/VP-Moema-Dourado-Sm_L3LQgFxmFfOTa25glhn2v.webp"}
-width={103}
-height={55}
+src={"/assets/Logomark_Light_h3vuwfDitbjjyxAu0pTq2.svg"}
+width={36}
+height={34}
 alt={""}
-className={`w-image cq5gtyb cx93gdu c1vsi70n c2kmsbi c1fzbwwp cuw9cwu`} />
+className={`w-image cq5gtyb cx93gdu c1vsi70n c774cxu c1fzbwwp cuw9cwu c1541zyy`} />
 </Link>
 <Box
 className={`w-box c1gn97o1 cd4gmss c6vhksc c1s449hu c3in6f7 c1rgix91 c1r11ioj cn6moax c1q4zydl c1opxtli c1jhq5vf c15buysa c1n6m90e cgo44qf c13nm82y cv83gzq`}>

@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "985c537c-2831-4b20-a3a0-95252c1040b6",
+    "id": "1fc89eac-e465-40f0-95f2-ae3f4f84c98b",
     "projectId": "577eedda-aa45-43a1-aad1-46e944a7c857",
-    "version": 328,
-    "createdAt": "2025-11-20T22:26:22.032+00:00",
-    "updatedAt": "2025-11-20T22:26:22.032+00:00",
+    "version": 344,
+    "createdAt": "2025-11-21T18:31:54.899+00:00",
+    "updatedAt": "2025-11-21T18:31:54.899+00:00",
     "pages": {
       "meta": {
         "siteName": "VP Moema",
@@ -10836,13 +10836,13 @@
       [
         "exltlfIC_f3p-sXS2uPCW:7j3oRg-LlhgYdMCn8U6hu:height:",
         {
-          "styleSourceId": "exltlfIC_f3p-sXS2uPCW",
           "breakpointId": "7j3oRg-LlhgYdMCn8U6hu",
+          "styleSourceId": "exltlfIC_f3p-sXS2uPCW",
           "property": "height",
           "value": {
             "type": "unit",
             "unit": "px",
-            "value": 24
+            "value": 42
           }
         }
       ],
@@ -15334,13 +15334,13 @@
       [
         "FIwsOY50gUQOLlBs4eLqx:7j3oRg-LlhgYdMCn8U6hu:height:",
         {
-          "styleSourceId": "FIwsOY50gUQOLlBs4eLqx",
           "breakpointId": "7j3oRg-LlhgYdMCn8U6hu",
+          "styleSourceId": "FIwsOY50gUQOLlBs4eLqx",
           "property": "height",
           "value": {
             "type": "unit",
             "unit": "px",
-            "value": 24
+            "value": 36
           }
         }
       ],
@@ -16149,13 +16149,13 @@
       [
         "vwGvF1StvzLP4dXBlS4W5:7j3oRg-LlhgYdMCn8U6hu:height:",
         {
-          "styleSourceId": "vwGvF1StvzLP4dXBlS4W5",
           "breakpointId": "7j3oRg-LlhgYdMCn8U6hu",
+          "styleSourceId": "vwGvF1StvzLP4dXBlS4W5",
           "property": "height",
           "value": {
             "type": "unit",
             "unit": "px",
-            "value": 24
+            "value": 42
           }
         }
       ],
@@ -17609,13 +17609,13 @@
       [
         "LzFj88dUBoifFKw8ioT2C:tHS8zcPAFHnQRlgZJrj7A:height:",
         {
-          "styleSourceId": "LzFj88dUBoifFKw8ioT2C",
           "breakpointId": "tHS8zcPAFHnQRlgZJrj7A",
+          "styleSourceId": "LzFj88dUBoifFKw8ioT2C",
           "property": "height",
           "value": {
             "type": "unit",
             "unit": "px",
-            "value": 18
+            "value": 36
           }
         }
       ],
@@ -19435,6 +19435,19 @@
             "g": 255,
             "b": 255,
             "alpha": 1
+          }
+        }
+      ],
+      [
+        "LzFj88dUBoifFKw8ioT2C:a3gYD0nHuDHHYgY6TD4Jn:height:",
+        {
+          "breakpointId": "a3gYD0nHuDHHYgY6TD4Jn",
+          "styleSourceId": "LzFj88dUBoifFKw8ioT2C",
+          "property": "height",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 42
           }
         }
       ]
@@ -23938,7 +23951,7 @@
           "instanceId": "T5WE-1JZhA5roupdGYKfh",
           "name": "src",
           "type": "asset",
-          "value": "c22a72cae7398043c9cdb66646f34f85fb9bc82a6f890f500f96e9451d37b3b0"
+          "value": "fe03d6e7e996c88684a29a9a12906c53ecdaf821bc3ee8a065faa630cfc72ae9"
         }
       ],
       [
@@ -23948,7 +23961,7 @@
           "instanceId": "T5WE-1JZhA5roupdGYKfh",
           "name": "width",
           "type": "asset",
-          "value": "c22a72cae7398043c9cdb66646f34f85fb9bc82a6f890f500f96e9451d37b3b0"
+          "value": "fe03d6e7e996c88684a29a9a12906c53ecdaf821bc3ee8a065faa630cfc72ae9"
         }
       ],
       [
@@ -23958,7 +23971,7 @@
           "instanceId": "T5WE-1JZhA5roupdGYKfh",
           "name": "height",
           "type": "asset",
-          "value": "c22a72cae7398043c9cdb66646f34f85fb9bc82a6f890f500f96e9451d37b3b0"
+          "value": "fe03d6e7e996c88684a29a9a12906c53ecdaf821bc3ee8a065faa630cfc72ae9"
         }
       ],
       [
@@ -24388,7 +24401,7 @@
           "instanceId": "LZBvO0OSn13f4gwh_cr14",
           "name": "src",
           "type": "asset",
-          "value": "c22a72cae7398043c9cdb66646f34f85fb9bc82a6f890f500f96e9451d37b3b0"
+          "value": "fe03d6e7e996c88684a29a9a12906c53ecdaf821bc3ee8a065faa630cfc72ae9"
         }
       ],
       [
@@ -24398,7 +24411,7 @@
           "instanceId": "LZBvO0OSn13f4gwh_cr14",
           "name": "width",
           "type": "asset",
-          "value": "c22a72cae7398043c9cdb66646f34f85fb9bc82a6f890f500f96e9451d37b3b0"
+          "value": "fe03d6e7e996c88684a29a9a12906c53ecdaf821bc3ee8a065faa630cfc72ae9"
         }
       ],
       [
@@ -24408,7 +24421,7 @@
           "instanceId": "LZBvO0OSn13f4gwh_cr14",
           "name": "height",
           "type": "asset",
-          "value": "c22a72cae7398043c9cdb66646f34f85fb9bc82a6f890f500f96e9451d37b3b0"
+          "value": "fe03d6e7e996c88684a29a9a12906c53ecdaf821bc3ee8a065faa630cfc72ae9"
         }
       ],
       [
@@ -24558,7 +24571,7 @@
           "instanceId": "ziBj8OAX4_SaTlwf6ClUx",
           "name": "src",
           "type": "asset",
-          "value": "c22a72cae7398043c9cdb66646f34f85fb9bc82a6f890f500f96e9451d37b3b0"
+          "value": "fe03d6e7e996c88684a29a9a12906c53ecdaf821bc3ee8a065faa630cfc72ae9"
         }
       ],
       [
@@ -24568,7 +24581,7 @@
           "instanceId": "ziBj8OAX4_SaTlwf6ClUx",
           "name": "width",
           "type": "asset",
-          "value": "c22a72cae7398043c9cdb66646f34f85fb9bc82a6f890f500f96e9451d37b3b0"
+          "value": "fe03d6e7e996c88684a29a9a12906c53ecdaf821bc3ee8a065faa630cfc72ae9"
         }
       ],
       [
@@ -24578,7 +24591,7 @@
           "instanceId": "ziBj8OAX4_SaTlwf6ClUx",
           "name": "height",
           "type": "asset",
-          "value": "c22a72cae7398043c9cdb66646f34f85fb9bc82a6f890f500f96e9451d37b3b0"
+          "value": "fe03d6e7e996c88684a29a9a12906c53ecdaf821bc3ee8a065faa630cfc72ae9"
         }
       ],
       [
@@ -24608,7 +24621,7 @@
           "instanceId": "LZBvO0OSn13f4gwh_cr14",
           "name": "alt",
           "type": "asset",
-          "value": "c22a72cae7398043c9cdb66646f34f85fb9bc82a6f890f500f96e9451d37b3b0"
+          "value": "fe03d6e7e996c88684a29a9a12906c53ecdaf821bc3ee8a065faa630cfc72ae9"
         }
       ],
       [
@@ -24708,7 +24721,7 @@
           "instanceId": "T5WE-1JZhA5roupdGYKfh",
           "name": "alt",
           "type": "asset",
-          "value": "c22a72cae7398043c9cdb66646f34f85fb9bc82a6f890f500f96e9451d37b3b0"
+          "value": "fe03d6e7e996c88684a29a9a12906c53ecdaf821bc3ee8a065faa630cfc72ae9"
         }
       ],
       [
@@ -24758,7 +24771,7 @@
           "instanceId": "ziBj8OAX4_SaTlwf6ClUx",
           "name": "alt",
           "type": "asset",
-          "value": "c22a72cae7398043c9cdb66646f34f85fb9bc82a6f890f500f96e9451d37b3b0"
+          "value": "fe03d6e7e996c88684a29a9a12906c53ecdaf821bc3ee8a065faa630cfc72ae9"
         }
       ],
       [
@@ -24768,7 +24781,7 @@
           "instanceId": "syPk59fNquCCJx7uON5Jz",
           "name": "src",
           "type": "asset",
-          "value": "70cf0f9228d91afeb81193737b74a2a828c78b29e647494f441c8a00637d5846"
+          "value": "50550774d86320e0e8f9214c3178dacb6453d0e7474a7bd0b2222d9f71eb9bc5"
         }
       ],
       [
@@ -24778,7 +24791,7 @@
           "instanceId": "syPk59fNquCCJx7uON5Jz",
           "name": "width",
           "type": "asset",
-          "value": "70cf0f9228d91afeb81193737b74a2a828c78b29e647494f441c8a00637d5846"
+          "value": "50550774d86320e0e8f9214c3178dacb6453d0e7474a7bd0b2222d9f71eb9bc5"
         }
       ],
       [
@@ -24788,7 +24801,7 @@
           "instanceId": "syPk59fNquCCJx7uON5Jz",
           "name": "height",
           "type": "asset",
-          "value": "70cf0f9228d91afeb81193737b74a2a828c78b29e647494f441c8a00637d5846"
+          "value": "50550774d86320e0e8f9214c3178dacb6453d0e7474a7bd0b2222d9f71eb9bc5"
         }
       ],
       [
@@ -24798,7 +24811,7 @@
           "instanceId": "syPk59fNquCCJx7uON5Jz",
           "name": "alt",
           "type": "asset",
-          "value": "70cf0f9228d91afeb81193737b74a2a828c78b29e647494f441c8a00637d5846"
+          "value": "50550774d86320e0e8f9214c3178dacb6453d0e7474a7bd0b2222d9f71eb9bc5"
         }
       ],
       [
@@ -29163,6 +29176,19 @@
       }
     },
     {
+      "id": "50550774d86320e0e8f9214c3178dacb6453d0e7474a7bd0b2222d9f71eb9bc5",
+      "name": "Logomark_Light_h3vuwfDitbjjyxAu0pTq2.svg",
+      "projectId": "577eedda-aa45-43a1-aad1-46e944a7c857",
+      "size": 1759,
+      "type": "image",
+      "format": "svg",
+      "createdAt": "2025-11-21T18:30:44.224+00:00",
+      "meta": {
+        "width": 36,
+        "height": 34
+      }
+    },
+    {
       "id": "55da2471699054545fb115347d0add34acd9a3b511672eddccce66b578150f7b",
       "name": "Moved_Osasco_Book_-_com_logo_JzAum-M--XksiQO_JIIjj.webp",
       "projectId": "577eedda-aa45-43a1-aad1-46e944a7c857",
@@ -29381,6 +29407,19 @@
       "meta": {
         "width": 2498,
         "height": 873
+      }
+    },
+    {
+      "id": "fe03d6e7e996c88684a29a9a12906c53ecdaf821bc3ee8a065faa630cfc72ae9",
+      "name": "Logo_Light_9VnMI2Pcr-cnVXCuFpiyy.svg",
+      "projectId": "577eedda-aa45-43a1-aad1-46e944a7c857",
+      "size": 8811,
+      "type": "image",
+      "format": "svg",
+      "createdAt": "2025-11-21T18:30:05.193+00:00",
+      "meta": {
+        "width": 117,
+        "height": 34
       }
     }
   ],

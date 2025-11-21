@@ -874,8 +874,8 @@
   .c1des751 {
     background-image: linear-gradient(to right,rgba(0,0,0,0.9) 0%,rgba(0,0,0,0.25) 100%)
   }
-  .cq5gtyb {
-    height: 24px
+  .c1nkbg5i {
+    height: 42px
   }
   .c1lmclx2 {
     max-height: fit-content
@@ -1019,6 +1019,9 @@
   .cr5hhig {
     border-left: 0px solid rgba(255, 255, 255, 0.1)
   }
+  .c15vj4v8 {
+    height: 36px
+  }
   .c1r11ioj {
     transform: translate(-50%, -50%)
   }
@@ -1065,14 +1068,14 @@
   .co17pcj {
     object-fit: contain
   }
+  .cq5gtyb {
+    height: 24px
+  }
   .crbbjn7 {
     background-image: url("/assets/Book-VP-Moema-Planta_N6eDrTOlrW894hGjQPN9w.webp")
   }
   .ci942lc {
     height: 32px
-  }
-  .c15vj4v8 {
-    height: 36px
   }
   .cvn9a9v {
     row-gap: 6px
@@ -1445,6 +1448,9 @@
   .cuw9cwu {
     display: block
   }
+  .c1541zyy {
+    height: 42px
+  }
 }
 @media all and (max-width: 479px) {
   .cu5zju4 {
@@ -1491,5 +1497,8 @@
   }
   .c2kmsbi {
     height: 18px
+  }
+  .c774cxu {
+    height: 36px
   }
 }
